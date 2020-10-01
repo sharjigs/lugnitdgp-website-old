@@ -17,7 +17,7 @@ follow the steps given here.
 4. Get into the root of the repostory on your local machine and run:
    `bundle exec jekyll serve`
 5. Open your browser and put the link: `http://localhost:4000`
-
+6. Live reload with Jekyll : `jekyll serve --watch`
 ## Contributing
 You can just contribute by reporting issues if you are not part of our team.
 If you really want to contribute real code then fork this repository and get
